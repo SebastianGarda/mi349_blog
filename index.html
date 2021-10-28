@@ -4,19 +4,23 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="style.css">
     <title>My Blog</title>
 </head>
 <body>
-    <h1>Blog</h1>
-    <nav>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="contact.html">Contact Us</a></li>
-        </ul>
-    </nav>
+    <header>
+        <h1>Blog</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
     <main>
-        <article>
+        <section id="blog">
+        <article class ="blog-post">
             <h2>Play Station All Stars Battle Royale 2 and How it could be good Part 1: Characters</h2>
             <a href="about.html" rel="author">Sebastian Garda</a>
             <time datetime="2021-10-10">October 10</time>
@@ -44,7 +48,7 @@
     
             </p>
         </article>
-        <article>
+        <article class="blog-post">
             <h2>Play Station All Stars Battle Royale 2 and How it could be good Part 2: Mechanics</h2>
             <a href="about.html" rel="author">Sebastian Garda</a>
             <time datetime="2021-10-13">October 13</time>
@@ -70,7 +74,7 @@
                 four light, four special tradition. It can stay that way, it's a super unique addition. If it were to be replaced with normal 
                 smash controls however, I'd be perfectly ok with that.
             </p>
-            <table>
+            <table class="table">
                 <tr>
                     <th>Game/Console</th>
                     <th>Sales figures (mil)</th>

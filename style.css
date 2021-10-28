@@ -1,0 +1,49 @@
+html {
+    background: #4f81b9;
+}
+
+title {
+    font-size: 6em;
+}
+
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 35px;
+    padding: 35px;
+    color: #242424;
+    border-top: 10px solid #242424;
+    background: #ffff;
+}
+
+h1 {
+    font-size: 4em;
+    margin: 0;
+}
+
+h2 {
+    font-size: 3em;
+    margin: 0;
+}
+
+p {
+    line-height: 1.5em;
+}
+
+#blog {
+    border-top: 2px dotted #ccc;
+}
+
+.blog-post {
+    border-bottom: 2px dotted #ccc;
+}
+
+.table {
+    border-bottom: 2px dotted #ccc;
+    font-size: 2em;
+}
+
+.bio {
+    border-top: 2px dotted #ccc;
+    border-bottom: 2px dotted #ccc;
+}
+
