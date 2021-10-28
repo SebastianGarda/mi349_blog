@@ -47,3 +47,7 @@ p {
     border-bottom: 2px dotted #ccc;
 }
 
+[data-modal="open"] {
+    font-size: 4em;
+}
+
