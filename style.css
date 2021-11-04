@@ -47,6 +47,8 @@ p {
     border-bottom: 2px dotted #ccc;
 
     background-color: rgb(191, 186, 212);
+    padding: 20 px;
+    margin: 20 px;
 }
 
 .blog-post:nth-of-type(1){
