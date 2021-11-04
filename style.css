@@ -17,7 +17,8 @@ body {
 
 h1 {
     font-size: 4em;
-    margin: 0;
+    margin: 1;
+    border-bottom: 2px dotted #ccc;
 }
 
 h2 {
@@ -63,5 +64,5 @@ p {
 
 img{
     float: left;
-    margin-right: 20 px;
+    margin-right: 100 px;
 }
