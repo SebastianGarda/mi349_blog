@@ -64,6 +64,6 @@ p {
 
 
 img{
-    float: left;
-    margin-right: 200px;
+    float: right;
+    margin-left: 20px;
 }
