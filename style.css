@@ -61,6 +61,11 @@ h3{
     background-color: rgb(168, 125, 134);
     border-right: 4px dotted #ccc;
 }
+#paragraph-1-2{
+    flex: 4;
+    background-color: rgb(168, 125, 134);
+    border-right: 4px dotted #ccc;
+}
 
 #paragraph-2{
     flex: 2;
