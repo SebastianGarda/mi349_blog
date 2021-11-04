@@ -43,8 +43,18 @@ p {
     background:blueviolet
 }
 .blog-post {
-    display: flex;
+    
     border-bottom: 2px dotted #ccc;
+
+    background-color: rgb(37, 18, 122);
+}
+
+.blog-post:nth-of-type(1){
+    display: flex 2;
+}
+
+.blog-post:nth-of-type(2){
+    display: flex 2;
 }
 
 .table {
@@ -66,4 +76,5 @@ p {
 img{
     float: right;
     margin-left: 20px;
+    margin-bottom: 20px;
 }
