@@ -47,19 +47,23 @@ p {
     border-bottom: 2px dotted #ccc;
 
     background-color: rgb(191, 186, 212);
-    display: flex;
+    padding: 20 px;
+    margin: 20 px;
 }
 
 h3{
     flex: 2;
+    background-color: crimson;
 }
 
 p1{
     flex: 4;
+    background-color: crimson;
 }
 
 p2{
     flex: 2;
+    background-color: crimson;
 }
 
 .table {
