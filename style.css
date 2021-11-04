@@ -38,7 +38,7 @@ p {
 .nav-header {
     
     position: sticky;
-    top: 1000px;
+    top: 10px;
 
     background:blueviolet
 }
