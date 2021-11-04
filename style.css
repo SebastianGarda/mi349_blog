@@ -33,6 +33,13 @@ p {
     border-top: 2px dotted #ccc;
 }
 
+.nav-header {
+    
+    position: sticky;
+    top: 0;
+
+    background:blueviolet
+}
 .blog-post {
     border-bottom: 2px dotted #ccc;
 }
@@ -51,3 +58,11 @@ p {
     font-size: 4em;
 }
 
+section{
+    display: flex;
+}
+
+img{
+    float: left;
+    margin-right: 20 px;
+}
