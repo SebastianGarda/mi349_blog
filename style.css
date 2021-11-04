@@ -62,7 +62,7 @@ p1{
     border-right: 4px dotted #ccc;
 }
 
-p2{
+figure{
     flex: 2;
     background-color: rgb(168, 125, 134);
 }
@@ -84,7 +84,7 @@ p2{
 
 
 img{
-    float: right;
-    margin-left: 20px;
-    margin-bottom: 20px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 0px;
 }
