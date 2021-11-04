@@ -43,7 +43,7 @@ p {
     background:blueviolet
 }
 .blog-post {
-    
+    display: flex;
     border-bottom: 2px dotted #ccc;
 
     background-color: rgb(37, 18, 122);
