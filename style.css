@@ -41,6 +41,7 @@ p {
     background:blueviolet
 }
 .blog-post {
+    display: flex;
     border-bottom: 2px dotted #ccc;
 }
 
@@ -58,9 +59,7 @@ p {
     font-size: 4em;
 }
 
-section{
-    display: flex;
-}
+
 
 img{
     float: left;
