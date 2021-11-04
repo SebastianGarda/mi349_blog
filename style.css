@@ -18,12 +18,13 @@ body {
 h1 {
     font-size: 4em;
     margin: 1;
-    border-bottom: 2px dotted #ccc;
+    
 }
 
 h2 {
     font-size: 3em;
     margin: 0;
+    border-bottom: 2px dotted #ccc;
 }
 
 p {
