@@ -101,12 +101,10 @@ img{
     margin-bottom: 0px;
 }
 
-@media (min-width: 400px)
+@media (max-width: 1000px)
 {
-    .blog-post
+    body
     {
-        border-bottom: 2px dotted #ccc;
-
         background-color: rgb(255, 0, 0);
     }
 }
