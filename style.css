@@ -105,9 +105,10 @@ img{
 {
     .blog-post
     {
-        display: inline; 
+        
         border-bottom: 2px dotted #ccc;
 
         background-color: rgb(255, 0, 0);
+        display: inline; 
     }
 }
