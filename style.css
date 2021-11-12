@@ -101,8 +101,15 @@ img{
     margin-bottom: 0px;
 }
 
-@media (max-width: 1000px)
+@media (m-width: 1000px)
 {
+    .blog-post
+    {
+        border-bottom: 2px dotted #ccc;
+
+        display: inline;
+    }
+    
     h3{
         
         background-color: white;
