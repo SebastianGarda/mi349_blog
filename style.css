@@ -100,3 +100,13 @@ img{
     margin-right: 10px;
     margin-bottom: 0px;
 }
+
+@media (max-width: 400px)
+{
+    .blog-post
+    {
+        border-bottom: 2px dotted #ccc;
+
+        background-color: rgb(191, 186, 212);
+    }
+}
