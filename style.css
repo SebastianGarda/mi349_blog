@@ -103,13 +103,6 @@ img{
 
 @media (max-width: 1000px)
 {
-    .blog-post
-    {
-        border-bottom: 2px dotted #ccc;
-
-        background-color: rgb(255, 0, 0);
-    }
-    
     h3{
         
         background-color: white;
