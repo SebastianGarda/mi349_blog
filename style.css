@@ -101,13 +101,13 @@ img{
     margin-bottom: 0px;
 }
 
-@media (m-width: 1000px)
+@media (max-width: 1000px)
 {
     .blog-post
     {
         border-bottom: 2px dotted #ccc;
 
-        
+        display: inline;
     }
     
     h3{
@@ -144,7 +144,7 @@ img{
     }
     
     .bio {
-        display:flex;
+        display:inline;
         border-top: 2px dotted #ccc;
         border-bottom: 2px dotted #ccc;
     }
