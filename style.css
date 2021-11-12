@@ -101,7 +101,7 @@ img{
     margin-bottom: 0px;
 }
 
-@media (max-width: 400px)
+@media (min-width: 400px)
 {
     .blog-post
     {
